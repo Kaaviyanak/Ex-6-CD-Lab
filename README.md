@@ -60,8 +60,8 @@ int main()
 
 
 # OUTPUT
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/9b5c1131-64c1-4f93-9d9d-dad4dd8fc559" />
 
+<img width="1799" height="1129" alt="image" src="https://github.com/user-attachments/assets/2a421f5e-4349-495f-99c5-d22f353aecea" />
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
